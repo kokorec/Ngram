@@ -7,6 +7,6 @@ When we calling the handleTextFor(N)gram methods in Text class, the methods that
 
 Generation class is designed to generate sentences using information of models. When we call the  generateSentenceTri/Uni/Bi methods, this methods can generate sentences and calculates their probbility. These result are also written in output file under the title of "GENERATED SENTENCES".
 
-When test the program with small data set, it produces true results speedly. But it takes a lot of time when large data sets are used(for example, data set2 for this assignment/ this may be due to my computer.)
+When the program tested with small data set, it produces true results speedly. But it takes a lot of time when large data sets are used(more than an hour for  data set2 for this assignment/ this may be due to my computer).
 
 Hazal Çağlan 21228161
